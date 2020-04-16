@@ -6,11 +6,11 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/blandine-401javascript/lab-07/pull/1)
+- [submission PR](https://github.com/blandine-401javascript/lab-08/pull/1)
 
-- [front-end application](https://blandine-401-lab-07.herokuapp.com/)
+- [front-end application](https://blandine-401-lab08.herokuapp.com/)
 
-- [Swagger UI](https://blandine-401-lab-07.herokuapp.com/api-docs)
+- [Swagger UI](https://blandine-401-lab08.herokuapp.com/api-docs)
 ### Setup
 
 #### `.env` requirements
