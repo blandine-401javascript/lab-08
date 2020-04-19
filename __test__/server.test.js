@@ -9,7 +9,8 @@ const mockRequest = supergoose(app.server);
 
 describe('products routes work', () => {
   it('can get productss', async () => {
-    let response = await mockRequest.get('/products');
+
+    let response = await mockRequest.get('/api/v1/products');
 
     expect(JSON.stringify(response.body)).toBe(
       JSON.stringify([
