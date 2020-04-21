@@ -38,9 +38,9 @@
 
 - [submission PR](https://github.com/blandine-401javascript/lab-08/pull/2)
 
-- [front-end application](https://blandine-401-lab-08.herokuapp.com/)
+- [front-end application](https://blandine-401-lab08.herokuapp.com/)
 
-- [Swagger UI](https://blandine-401-lab-08.herokuapp.com/api-docs)
+- [Swagger UI](https://blandine-401-lab08.herokuapp.com/api-docs)
 ### Setup
 
 #### `.env` requirements
